@@ -1,3 +1,3 @@
 # Stat-with-Python
 
-Autho: Lingyu Liu
+Author: Lingyu Liu
